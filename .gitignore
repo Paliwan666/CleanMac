@@ -1,0 +1,13 @@
+# SwiftPM 构建产物
+.build/
+.swiftpm/
+
+# 打包输出
+dist/
+
+# macOS 系统文件
+.DS_Store
+
+# Xcode（如果以后用 Xcode 打开）
+*.xcuserstate
+xcuserdata/
